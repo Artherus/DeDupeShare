@@ -72,3 +72,11 @@ font-size: 30px;
 .heada{
   padding-top: 75px;
 }
+
+#aboutUs-section .tag{
+  color: #fff;
+}
+
+#aboutUs-section .tag: hover{
+  color: #2980B9;
+}
