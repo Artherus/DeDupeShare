@@ -1,0 +1,19 @@
+1. Create a list of numbers which contains 
+   check_list = [11, 13, 14, 16, 17, 18, 19, 20]
+   note: we have not included 1 as every number is divisible by 1 and
+        2 through 10 are not included since 20 is multiple of 2,4,5 and similarly 18 is multiple of 3
+        so, they are not included
+2. define a function which does the division part of the code:
+   a. perform loop which ranges from the passed value to some maximum value
+   b. if the looped value is divisible by all number in check_list
+      return the looped value
+      else return none
+
+3. assign the returned value from function to some varaible (soln)
+4. if soln is none then print no answer
+5. else print soln as required answer
+      
+
+
+   
+   
